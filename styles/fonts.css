@@ -1,0 +1,42 @@
+/*for all*/
+@font-face {
+    font-family: "Timeburner";
+    src: url("../fonts/Timeburner/timeburnernormal.ttf");
+    src: url("../fonts/Timeburner/timeburnernormal.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Timeburner";
+    src: url("../fonts/Timeburner/timeburnerbold.ttf");
+    src: url("../fonts/Timeburner/timeburnerbold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+/*for headings*/
+@font-face {
+    font-family: "Montharo";
+    src: url("../fonts/Montharo/OTF/Montharo Regular.otf");
+    src:    url("../fonts/Montharo/OTF/Montharo Regular.otf") format("opentype"),
+            url("../fonts/Montharo/TTF/Montharo Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Montharo";
+    src: url("../fonts/Montharo/OTF/Montharo Italic.otf");
+    src:    url("../fonts/Montharo/OTF/Montharo Italic.otf") format("opentype"),
+            url("../fonts/Montharo/TTF/Montharo Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+/*for signature*/
+@font-face {
+    font-family: "Holland";
+    src: url("../fonts/Holland/Holland.otf");
+    src:    url("../fonts/Holland/Holland.otf") format("opentype"),
+            url("../fonts/Holland/Holland.ttf") format("truetype"),
+            url("../fonts/Holland/Holland web font.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
